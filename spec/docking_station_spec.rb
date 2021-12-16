@@ -1,4 +1,4 @@
-require "dockingStation"
+require "docking_station"
 
 describe DockingStation do
   describe "respond to" do
